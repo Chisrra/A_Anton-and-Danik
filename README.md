@@ -60,3 +60,6 @@ If Anton and Danik won the same number of games, print `"Friendship"` (without q
 <h6>Output</h6>
 
 >Friendship
+
+## Codeforces Link
+[A. Anton and Danik](https://codeforces.com/problemset/problem/734/A)
