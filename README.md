@@ -2,8 +2,8 @@
 
 - <h6> <center> Time limit per test 1 second </center> </h6>
 - <h6> <center> Memory limit per test 256 megabytes </center> </h6>
-- <h6> <center> inputstandard input </center> </h6>
-- <h6> <center>outputstandard output </center> </h6>
+- <h6> <center> input: standard input </center> </h6>
+- <h6> <center>output: standard output </center> </h6>
 
 Anton likes to play chess, and so does his friend Danik.
 
